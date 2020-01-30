@@ -1,0 +1,4 @@
+[debug] Copy resource mappings: 
+[debug] 	(/Users/aldenml/Development/strict302/conf/logback.xml,/Users/aldenml/Development/strict302/target/scala-2.11/classes/logback.xml)
+[debug] 	(/Users/aldenml/Development/strict302/conf/application.conf,/Users/aldenml/Development/strict302/target/scala-2.11/classes/application.conf)
+[debug] 	(/Users/aldenml/Development/strict302/conf/routes,/Users/aldenml/Development/strict302/target/scala-2.11/classes/routes)
